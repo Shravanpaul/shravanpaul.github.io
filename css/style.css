@@ -168,8 +168,6 @@ body {
 .banner {
 	background:url(../images/banner.jpg) no-repeat;
 	background-size:cover;
-	-moz-background-size:cover;
-	-o-background-size:cover;
 	min-height:925px;
 }
 /*-- slider --*/
