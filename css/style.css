@@ -167,7 +167,9 @@ body {
 /*-- /link-effect --*/
 .banner {
 	background:url(../images/banner.jpg) no-repeat;
-	background-size:cover;
+    background-size: 50%;
+    background-position: 0% 50%;
+    background-color: #333;
 	min-height:925px;
 }
 /*-- slider --*/
